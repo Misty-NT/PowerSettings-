@@ -1,5 +1,5 @@
 # Define the path to save power settings
-$tempFolder = "C:\TempPowerSettings"
+$tempFolder = "C:\NetworkTitan"
 $powerSettingsFile = "$tempFolder\PowerSettingsBackup.json"
 
 # Create the temp folder if it doesn't exist
